@@ -202,7 +202,7 @@
                     loop: true,
                     strings: [
                         'Designer',
-                        'Developer'
+                        'Software Developer'
                     ],
                     breakLines: false
                 });
